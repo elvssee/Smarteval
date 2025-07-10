@@ -5,13 +5,12 @@ Evaluating one-word and multiple-choice answers manually is repetitive, time-con
 
 Objectives
 
-1. To create a mobile app that helps teachers check student answers more easily.
+To create an AI-powered app that helps teachers quickly and fairly evaluate handwritten student answers even when the writing is messy so they can focus more on teaching and less on manual correction.
 
-2. To read handwritten one-word answers using ocr and to check multiple choice answers using omr.
+To read handwritten one-word answers using ocr and to check multiple choice answers using omr.
 
-3. To use AI to understand and evaluate unclear or messy handwriting.
+To use AI to help make sense of messy handwriting especially in situations like student answer sheets so that even if someone’s writing isn’t perfect, their ideas can still be understood and evaluated fairly.
 
-4. To quickly generate result reports for students.
+To help educators quickly generate accurate student reports, making evaluation faster and feedback more meaningful.
 
-5. To save time and reduce mistakes in the answer-checking process.
 
